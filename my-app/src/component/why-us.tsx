@@ -4,6 +4,7 @@ const Why: FunctionComponent = () => (
     className="why-us section-bg aos-init aos-animate"
     data-aos="fade-up"
     date-aos-delay={200}
+    id="compress"
   >
     <div className="container">
       <div className="row">

@@ -28,7 +28,7 @@ const Service: FunctionComponent = () => {
     }
   }
   return (
-    <section id="compress" className="services">
+    <section className="services">
       <div className="container">
         <div className="row">
           <div
